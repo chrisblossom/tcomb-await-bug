@@ -1,0 +1,12 @@
+{
+  "passPerPreset": false,
+  "presets": [
+    "stage-2",
+    "react",
+    "es2015"
+  ],
+  "plugins": [
+    "tcomb",
+    "transform-runtime"
+  ]
+}
